@@ -1,5 +1,10 @@
 ## Hi There,I'm Erekle Mikiashvili - WEB DEVELOPER
+## I'm a Software Developer, Student, and Tech Enthusiast
 
+- 🌱 I’m currently learning everything 🤣Cuz Software Developers are forever students
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2020 Goals: Webiz Academy
+- 🎵 Fun fact: I love to listen to Hip-Hop music
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
