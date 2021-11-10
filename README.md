@@ -1,4 +1,4 @@
-## W E L C O M E 👋
+## Erekle Mikiashvili 👋
 ## I'm a Software Developer, Student, and Tech Enthusiast
 
 - 🌱 I’m currently learning everything 🤣Cuz Software Developers are forever students
