@@ -1,4 +1,4 @@
-## Hi There,I'm Erekle Mikiashvili - WEB DEVELOPER
+## W E L C O M E 👋
 ## I'm a Software Developer, Student, and Tech Enthusiast
 
 - 🌱 I’m currently learning everything 🤣Cuz Software Developers are forever students
