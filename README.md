@@ -1,5 +1,5 @@
-## Erekle Mikiashvili 👋
-## I'm a Software Developer, Student, and Tech Enthusiast
+##  Hi There👋I'm Erekle Mikiashvili 
+## Software Developer, Student, and Tech Enthusiast
 
 - 🌱 I’m currently learning everything 🤣Cuz Software Developers are forever students
 - 👯 I’m looking to collaborate with other content creators
