@@ -4,7 +4,8 @@
 
 - 🌱 I’m currently learning everything 🤣Cuz Software Developers are forever students
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Webiz Academy
+- 🥅 2020 Goal: Webiz Academy
+- 🥅 2021 Goal: Webiz Georgia
 - 🎵 Fun fact: I love to listen to Hip-Hop music
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
